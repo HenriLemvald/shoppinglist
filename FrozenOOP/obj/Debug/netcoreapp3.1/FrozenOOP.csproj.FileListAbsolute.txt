@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\FrozenOOP\FrozenOOP\bin\Debug\netcoreapp3.1\FrozenOOP.exe
+C:\Users\opilane\source\repos\FrozenOOP\FrozenOOP\bin\Debug\netcoreapp3.1\FrozenOOP.deps.json
+C:\Users\opilane\source\repos\FrozenOOP\FrozenOOP\bin\Debug\netcoreapp3.1\FrozenOOP.runtimeconfig.json
+C:\Users\opilane\source\repos\FrozenOOP\FrozenOOP\bin\Debug\netcoreapp3.1\FrozenOOP.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FrozenOOP\FrozenOOP\bin\Debug\netcoreapp3.1\FrozenOOP.dll
+C:\Users\opilane\source\repos\FrozenOOP\FrozenOOP\bin\Debug\netcoreapp3.1\FrozenOOP.pdb
+C:\Users\opilane\source\repos\FrozenOOP\FrozenOOP\obj\Debug\netcoreapp3.1\FrozenOOP.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FrozenOOP\FrozenOOP\obj\Debug\netcoreapp3.1\FrozenOOP.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FrozenOOP\FrozenOOP\obj\Debug\netcoreapp3.1\FrozenOOP.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FrozenOOP\FrozenOOP\obj\Debug\netcoreapp3.1\FrozenOOP.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FrozenOOP\FrozenOOP\obj\Debug\netcoreapp3.1\FrozenOOP.dll
+C:\Users\opilane\source\repos\FrozenOOP\FrozenOOP\obj\Debug\netcoreapp3.1\FrozenOOP.pdb
+C:\Users\opilane\source\repos\FrozenOOP\FrozenOOP\obj\Debug\netcoreapp3.1\FrozenOOP.genruntimeconfig.cache
